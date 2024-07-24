@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Sydney, Australia<br>🚀  I am currently working at OpenOnion as a Frontend developer!<br>💬 Ask me about anything Frontend!!!<br>🖥️  Checkout my current portfolio website at https://limoudom.netlify.app<br>
+🌍  I'm based in Sydney, Australia<br>🚀  I am currently working at OpenOnion as a Frontend developer!<br>💬 Ask me about anything software!!!<br>🖥️  Checkout my current portfolio website at https://limoudom.netlify.app<br>
 
 
 ## 🌐 Socials:
