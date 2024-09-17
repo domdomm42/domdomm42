@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Sydney, Australia<br>🚀  I am currently working at OpenOnion as a Software Engineer!<br>💬 Ask me about anything software!!!<br>🖥️  Checkout my current portfolio website at https://website-ecru-nu.vercel.app<br>
+🌍  I'm based in Sydney, Australia<br>🚀  I am currently working at OpenOnion as a Software Engineer!<br>💬 Ask me about anything software!!!<br>🖥️  Checkout my current portfolio website at https://www.oudomlim.com<br>
 
 
 ## 🌐 Socials:
